@@ -1,4 +1,4 @@
-
+---
 widget: featurette
 headless: true
 weight: 30
@@ -18,7 +18,7 @@ feature:
     icon_pack: fab
     name: R
 widget_id: RECENT-POSTS
-
+---
 
 
 
