@@ -2,7 +2,11 @@
 title: Research Pipeline
 subtitle: ""
 date: 2022-09-17T17:41:46.212Z
-summary: ""
+summary: >-
+  **[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
+
+
+  **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
 draft: false
 featured: false
 authors: []
@@ -16,8 +20,6 @@ image:
   placement: 2
   preview_only: false
 ---
-**[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
-
 **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
 
 * INFORMS Conference on Information Systems and Technology 2019 (CIST2019), Seattle, WA.
