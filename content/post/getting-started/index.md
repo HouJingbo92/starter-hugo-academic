@@ -1,12 +1,12 @@
 ---
-title: Research Pipeline
+title: Research Pipeline (click to view listings)
 subtitle: ""
 date: 2022-09-17T17:41:46.212Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
