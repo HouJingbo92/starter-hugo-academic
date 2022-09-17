@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jhou27@asu.edu
+    link: mailto:jhou27@asu.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=vVbJuCEAAAAJ&hl=en
