@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 20
 title: Reserach Pipeline
 subtitle: null
 content:
