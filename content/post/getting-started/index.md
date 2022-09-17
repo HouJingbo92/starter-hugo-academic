@@ -20,6 +20,8 @@ image:
 
 
 
+
+
 **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
 
 * INFORMS Conference on Information Systems and Technology 2019 (CIST2019), Seattle, WA.
