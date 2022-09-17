@@ -25,7 +25,7 @@ experience:
   - title: Game Operation
     company: Alibaba Group
     company_url: ''
-    company_logo: org-ag
+    company_logo: 
     location: Guangzhou
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: IPIN
     company_url: 'ipin.com'
-    company_logo: org-ip
+    company_logo: 
     location: Shenzhen
     date_start: '2016-01-01'
     date_end: '2020-12-31'
