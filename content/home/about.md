@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: RECENT-POSTS
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Jingbo Hou is a Ph.D. Candidate of Information Systems at the W.P. Carey School of Business at Arizona State University. He is on the job market this year (2022-2023).
+
+Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. Regarding the micro-level impacts of digital technologies, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). Regarding the macro-level impacts of digital technologies, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media.
