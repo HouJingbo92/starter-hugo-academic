@@ -17,7 +17,7 @@ experience:
         * Popular Game Operation
   - title: Research Assistant
     company: IPIN
-    company_url: https://ipin.com/
+    company_url: https://www.ipin.com/en/index.html
     company_logo: null
     location: Shenzhen
     date_start: 2019-11-01
