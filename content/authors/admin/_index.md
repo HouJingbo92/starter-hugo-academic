@@ -1,10 +1,9 @@
 ---
 title: Jingbo Hou
-role: "Ph.D. Candidate in Information Systems On the job market this year (2022
-  - 2023) "
-avatar_filename: high-definition-headshot-1.jpg
-bio: "Ph.D. Candidate in Information Systems On the job market this year (2022 -
-  2023)  Expected Graduation Date: June 2023"
+role: "Ph.D. Candidate in Information Systems "
+avatar_filename: avatar.jpg
+bio: "On the job market this year (2022 - 2023)  Expected Graduation Date: June
+  2023"
 interests:
   - Digital Platforms
   - Digital Media
