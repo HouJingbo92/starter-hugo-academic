@@ -22,7 +22,7 @@ experience:
     location: Shenzhen
     date_start: 2019-11-01
     date_end: 2019-12-31
-    description: conduct business data analytics using artifical inteligence (AI) techniques.
+    description: Conduct business data analytics using artifical inteligence (AI) techniques.
 widget_id: RECENT-POSTS
 headless: true
 weight: 40
