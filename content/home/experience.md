@@ -25,7 +25,7 @@ experience:
   - title: Game Operation Specialist
     company: Alibaba Group
     company_url: 'https://www.alibaba.com/'
-    company_logo: org-alibaba
+    company_logo: 
     location: Guangzhou
     date_start: '2014'
     date_end: '2014'
@@ -39,7 +39,7 @@ experience:
   - title: Research Assitant
     company: IPIN
     company_url: 'https://www.ipin.com/en/index.html'
-    company_logo: org-ipin
+    company_logo: 
     location: California
     date_start: '2019'
     date_end: '2019'
