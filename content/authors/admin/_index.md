@@ -6,9 +6,12 @@ avatar_filename: high-definition-headshot-1.jpg
 bio: "Ph.D. Candidate in Information Systems On the job market this year (2022 -
   2023)  Expected Graduation Date: June 2023"
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Platforms
+  - Digital Media
+  - Information and Communication Technology
+  - Future of Work
+  - Economics of AI/ML
+  - Crowdsourcing Contest
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,16 +27,16 @@ organizations:
     url: https://wpcarey.asu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Business Administration (Information Systems)
+      institution: Arizona State University
+      year: 2023
+    - course: M.Eng. in Management Science and Engineering
+      institution: Renmin University of China
+      year: 2018
+    - course: B.Mgmt. in Information Management and Information System (with Honor)
+      institution: Sun Yat-sen University
+      year: 2015
+email: jhou27@asu.edu
 superuser: true
 highlight_name: true
 ---
