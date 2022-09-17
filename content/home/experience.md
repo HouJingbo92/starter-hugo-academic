@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.alibaba.com/'
     company_logo: 
     location: Guangzhou
-    date_start: '2014'
-    date_end: '2014'
+    date_start: 
+    date_end: 
     description: |2-
         Responsibilities include:
         
@@ -40,9 +40,9 @@ experience:
     company: IPIN
     company_url: 'https://www.ipin.com/en/index.html'
     company_logo: 
-    location: California
-    date_start: '2019'
-    date_end: '2019'
+    location: Shenzhen
+    date_start: 
+    date_end: 
     description: Conduct business analytics for a leading Chinese artificial intelligence company.
 
 design:
