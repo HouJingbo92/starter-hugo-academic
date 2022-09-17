@@ -1,4 +1,4 @@
----
+
 widget: featurette
 headless: true
 weight: 30
@@ -18,13 +18,7 @@ feature:
     icon_pack: fab
     name: R
 widget_id: RECENT-POSTS
----
 
 
-```yaml
-  # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
-```
+
+
