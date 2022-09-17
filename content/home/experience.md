@@ -16,7 +16,6 @@ experience:
         * Business Report Writing 
         * Popular Game Operation
   - title: Research Assistant
-  conductor Physics
     company: IPIN
     company_url: https://ipin.com/
     company_logo: null
