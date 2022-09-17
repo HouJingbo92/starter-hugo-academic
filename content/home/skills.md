@@ -19,12 +19,3 @@ feature:
     name: Photography
 widget_id: RECENT-POSTS
 ---
-
-
-```yaml
-  # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
-```
