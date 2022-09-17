@@ -16,11 +16,7 @@ image:
   placement: 2
   preview_only: false
 ---
-**[Get Started](https://jingbohou.netlify.app/post/getting-started/)**
-
-
-
-
+**[Get Started](https://jingbohou.netlify.app/post/getting-started/)[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
 
 **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
 
