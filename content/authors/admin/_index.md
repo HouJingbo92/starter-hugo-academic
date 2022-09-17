@@ -2,8 +2,9 @@
 title: Jingbo Hou
 role: "Ph.D. Candidate in Information Systems On the job market this year (2022
   - 2023) "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: high-definition-headshot-1.jpg
+bio: "Ph.D. Candidate in Information Systems On the job market this year (2022 -
+  2023)  Expected Graduation Date: June 2023"
 interests:
   - Artificial Intelligence
   - Computational Linguistics
