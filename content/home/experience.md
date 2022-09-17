@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Game Operation
     company: Alibaba Group
-    company_url: ''
+    company_url: 'https://www.alibaba.com/'
     company_logo: 
     location: Guangzhou
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2014-05-01'
+    date_end: '2014-06-01'
     description: |2-
         Responsibilities include:
         
@@ -38,11 +38,11 @@ experience:
 
   - title: Professor of Semiconductor Physics
     company: IPIN
-    company_url: 'ipin.com'
+    company_url: 'https://ipin.com/'
     company_logo: 
     location: Shenzhen
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-11-01'
+    date_end: '2019-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
