@@ -16,6 +16,8 @@ image:
   placement: 2
   preview_only: false
 ---
+**R﻿ead More**
+
 **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
 
 * INFORMS Conference on Information Systems and Technology 2019 (CIST2019), Seattle, WA.
@@ -33,13 +35,11 @@ image:
 * 2021 INFORMS Annual Meeting (INFORMS 2021), Newport Beach, CA.
 * This research was also presented by Dr. Bin Gu at Boston University.
 
-3.     **Jingbo Hou**, Chen Liang, Pei-yu Chen, “Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19,” **in preparation for the 2nd round review, major revision, *Production and Operations Management*.**
-
+  3.     **Jingbo Hou**, Chen Liang, Pei-yu Chen, “Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19,” **in preparation for the 2nd round review, major revision, *Production and Operations Management*.**
 * 2021 International Conference on Information Systems (ICIS 2021), Austin, TX.
 * 2022 INFORMS Annual Meeting (INFORMS 2022), Indianapolis, IN.
 
-4.     **Jingbo Hou**, Amin Sabzehzar, Yili Hong, Pei-yu Chen, “Can Machine-generated Content Improve Equality in Online Two-sided Platforms?” **in preparation for submission to *Management Science*.**
-
+  4.     **Jingbo Hou**, Amin Sabzehzar, Yili Hong, Pei-yu Chen, “Can Machine-generated Content Improve Equality in Online Two-sided Platforms?” **in preparation for submission to *Management Science*.**
 * 2021 International Conference on Information Systems (ICIS 2021), Austin, TX.
 * 17th Annual Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2021), Virtual Conference.
 * 2021 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML 2021), Virtual Conference.
