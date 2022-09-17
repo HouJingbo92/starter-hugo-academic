@@ -16,7 +16,7 @@ experience:
         * Business Report Writing 
         * Popular Game Operation
   - title: Research Assistant
-    company: IPIN
+    company: IPIN (Leading AI company)
     company_url: https://www.ipin.com/en/index.html
     company_logo: null
     location: Shenzhen
