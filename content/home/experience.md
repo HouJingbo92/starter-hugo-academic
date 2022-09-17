@@ -1,50 +1,34 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+active: true
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Product Operations Specialist
-    company: UCBroswer of Alibaba Group 
-    company_url: ''
-    company_logo: 
+    company: UCBroswer of Alibaba Group
+    company_url: ""
+    company_logo: null
     location: Guangzhou
-    date_start: '2014'
-    date_end: '2014'
-    description: |2-
+    date_start: "2014"
+    date_end: "2014"
+    description: |-2
         Responsibilities include:
         
         * Business Data Analytics
         * Report Writing
         * Search Engine Optimization
-
   - title: Research Assistant
     company: ipin.com
-    company_url: ''
-    company_logo: 
+    company_url: ""
+    company_logo: null
     location: Shenzhen
-    date_start: '2019'
-    date_end: '2019'
+    date_start: "2019"
+    date_end: "2019"
     description: Business Data Analytics
-
+widget_id: RECENT-POSTS
+headless: true
+weight: 40
+title: Experience
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
 ---
