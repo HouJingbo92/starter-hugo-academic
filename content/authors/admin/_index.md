@@ -15,7 +15,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jhou27@asu.edu
-  - icon: ai-google-scholar
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=vVbJuCEAAAAJ&hl=en
   - icon: linkedin
