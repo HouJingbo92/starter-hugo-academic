@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Arizona State University'
-    description: 'Jingbo Hou's personal statement'
+    description: 'Jingbo Hou'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -29,7 +29,7 @@ marketing:
 
 # Site header
 
-header: 'Jingbo Hou'
+header: 
   navbar:
     enable: true
     align: l
