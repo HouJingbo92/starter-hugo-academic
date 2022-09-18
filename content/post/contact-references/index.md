@@ -1,7 +1,7 @@
 ---
 title: Contact References
 date: 2022-09-18T05:12:19.840Z
-summary: "**R﻿ead More**"
+summary: "**[R﻿ead More](https://jingbohou.netlify.app/post/contact-references/)**"
 draft: false
 featured: false
 image:
