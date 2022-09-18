@@ -39,7 +39,7 @@ publishDate: 2022-09-18T02:57:02.339Z
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
 url_code: ""
 ---
