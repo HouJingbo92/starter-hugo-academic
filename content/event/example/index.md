@@ -15,7 +15,7 @@ abstract: With the massive COVID-19 lockdown, teleworkability, i.e., the
   underscoring the nuanced impact of teleworkability.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary:
 title: Gender Heterogeneity in the Effect of Teleworkability on Labor Market
   Outcomes During the COVID-19 Pandemic
 location: Austin, TX
