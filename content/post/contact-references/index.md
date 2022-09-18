@@ -8,28 +8,32 @@ summary: >-
   **Dr. Pei-yu Chen (Committee Chair)**
 
 
-  Earl and Gladys Davis Distinguished Research Professor in Business of Information Systems
+  Chair, Department of Information Systems at W. P. Carey School of Business, Arizona State University  
 
 
-  Chair, Department of Information Systems
+  Website: <https://search.asu.edu/profile/2217544> 
 
 
-  W. P. Carey School of Business
 
 
-  Arizona State University
+  **Dr. Bin Gu** 
 
 
-  Senior Editor, *Information Systems Research*
+  Chair, Department of Information Systems at Questrom School of Business, Boston University 
 
 
-  Phone: +1 (480)-965-8676
+  Website: <https://www.bu.edu/questrom/profile/bin-gu/> 
 
 
-  Email: [peiyu.chen@asu.edu](mailto:peiyu.chen@asu.edu) 
 
 
-  Website: <https://search.asu.edu/profile/2217544>
+  **Dr. Yili (Kevin) Hong** 
+
+
+  Professor of Business Technology at Miami Herbert Business School, University of Miami
+
+
+  Website: <http://kevinhong.me/>
 draft: false
 featured: false
 image:
