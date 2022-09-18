@@ -15,7 +15,7 @@ abstract: With the massive COVID-19 lockdown, teleworkability, i.e., the
   underscoring the nuanced impact of teleworkability.
 slides: ""
 url_pdf: ""
-summary:
+summary: An example talk using Wowchemy's Markdown slides feature.
 title: Gender Heterogeneity in the Effect of Teleworkability on Labor Market
   Outcomes During the COVID-19 Pandemic
 location: Austin, TX
@@ -23,7 +23,7 @@ date: 2021-12-12T19:00:00.000Z
 date_end: 2021-12-15T07:00:00.000Z
 all_day: false
 event: 2021 International Conference on Information Systems (ICIS 2021)
-event_url: https://aisel.aisnet.org/icis2021/
+event_url: https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/21/
 featured: false
 authors: []
 url_video: ""
