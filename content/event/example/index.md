@@ -1,73 +1,45 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: With the massive COVID-19 lockdown, teleworkability, i.e., the
+  feasibility of telework, plays an important role in determining whether
+  workers can maintain productivity and keep their jobs. However, the impact of
+  teleworkability is likely to be heterogeneous, varying by worker
+  characteristics, such as gender and childcare constraints. This study examines
+  the heterogeneous impact of teleworkability on labor market outcomes
+  (including unemployment, work absence, and layoff). Using stay-at-home order
+  as a measure of labor market disruption, we find that teleworkability offsets
+  the increase in unemployment due to the disruption of COVID-19 by 20%, that in
+  work absence by 28%, and that in layoff by 26%. Specifically, the positive
+  effect of teleworkability is i) stronger for females than males; ii) stronger
+  for females with kids than their male counterparts as well as those without
+  kids. Our study contributes to the emerging literature on gender inequality by
+  underscoring the nuanced impact of teleworkability.
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Gender Heterogeneity in the Effect of Teleworkability on Labor Market
+  Outcomes During the COVID-19 Pandemic
+location: Austin, TX
+date: 2021-12-12T19:00:00.000Z
+date_end: 2021-12-15T07:00:00.000Z
+all_day: false
+event: 2021 International Conference on Information Systems (ICIS 2021)
+event_url: https://aisel.aisnet.org/icis2021/
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
+links: []
+publishDate: 2022-09-18T02:57:02.339Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
