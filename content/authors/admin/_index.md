@@ -39,7 +39,7 @@ email: jhou27@asu.edu
 superuser: true
 highlight_name: true
 ---
-Jingbo Hou is a Ph.D. candidate of [Information Systems](https://wpcarey.asu.edu/information-systems-degrees/doctoral) at the [W.P. Carey School of Business](https://wpcarey.asu.edu/) at [Arizona State University](https://www.asu.edu/). He is on the job market this year (2022-2023).
+Jingbo Hou is a Ph.D. candidate of [Information Systems](https://wpcarey.asu.edu/information-systems-degrees/doctoral) at the [W.P. Carey School of Business](https://wpcarey.asu.edu/) at [Arizona State University](https://www.asu.edu/). **He is on the job market this year (2022-2023).**
 
 Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. Regarding the micro-level impacts of digital technologies, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). Regarding the macro-level impacts of digital technologies, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media. 
 
