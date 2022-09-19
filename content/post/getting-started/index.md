@@ -3,13 +3,23 @@ title: Research Pipeline
 subtitle: ""
 date: 2022-09-17T17:41:46.212Z
 summary: >-
-  **[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
-
-
-  My research projects are at different review stages in top-tier journals. Particularly, I have four papers under review in ***Management Science*** (one is under preparation for the 2nd round review, and another one is under the 1st round review), ***Information Systems Research*** (under the 2nd round review), and ***Production and Operations Management*** (under preparation for the 2nd round review). I am also making good progress in preparing two papers targeted at ***Information Systems Research***. In the next three years, I plan to keep working on these two streams with my dependable coauthors. In addition, with a strong interest in digital finance, I am ready to start two research projects related to cryptocurrency. A summary of my current ongoing projects is presented below.
+  My research projects are at different review stages in top-tier journals.
+  Particularly, I have four papers under review in ***Management Science*** (one
+  is under preparation for the 2nd round review, and another one is under the
+  1st round review), ***Information Systems Research*** (under the 2nd round
+  review), and ***Production and Operations Management*** (under preparation for
+  the 2nd round review). I am also making good progress in preparing two papers
+  targeted at ***Information Systems Research***. In the next three years, I
+  plan to keep working on these two streams with my dependable coauthors. In
+  addition, with a strong interest in digital finance, I am ready to start two
+  research projects related to cryptocurrency. A summary of my current ongoing
+  projects is presented below.
 
 
   **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059).**
+
+
+  **[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
 draft: false
 featured: false
 authors: []
