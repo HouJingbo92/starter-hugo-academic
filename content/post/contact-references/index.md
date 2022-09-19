@@ -2,9 +2,6 @@
 title: Contact References
 date: 2022-09-16T05:12:00.000Z
 summary: >-
-  **[R﻿ead More](https://jingbohou.netlify.app/post/contact-references/)**
-
-
   **Dr. Pei-yu Chen (Committee Chair)**
 
 
@@ -12,8 +9,6 @@ summary: >-
 
 
   Website: <https://search.asu.edu/profile/2217544> 
-
-
 
 
   **Dr. Bin Gu** 
@@ -25,8 +20,6 @@ summary: >-
   Website: <https://www.bu.edu/questrom/profile/bin-gu/> 
 
 
-
-
   **Dr. Yili (Kevin) Hong** 
 
 
@@ -34,6 +27,11 @@ summary: >-
 
 
   Website: <http://kevinhong.me/>
+
+
+
+
+  **[R﻿ead More](https://jingbohou.netlify.app/post/contact-references/)**
 draft: false
 featured: false
 image:
