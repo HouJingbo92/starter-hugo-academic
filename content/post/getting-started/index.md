@@ -5,8 +5,23 @@ date: 2022-09-17T17:41:46.212Z
 summary: >-
   **[R﻿ead More](https://jingbohou.netlify.app/post/getting-started/)**
 
+   **Jingbo Hou**, Chen Liang, Pei-yu Chen, Bin Gu, “Does Telework Adjustment Reduce Unequal Impacts of the COVID-19 Disaster on Job Losses Across Genders?” **under the 2nd round review, major revision, *Information Systems Research*.**
 
-  **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*.**
+  * ISR Disaster Management Special Issue Workshop.
+
+  * [2021 International Conference on Information Systems (ICIS 2021), Austin, TX. **Best Paper Nominee**.](https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/21/)
+
+  * [](https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/21/)2021 Workshop on Information Systems and Economics (WISE 2021), Austin, TX.
+
+  * Conference on Information Systems and Technology 2021 (CIST2021), Newport Beach, CA.
+
+  * 2[022 Hawaii International Conference on System Sciences (HICSS 2022), Maui, HI](https://scholarspace.manoa.hawaii.edu/items/cef44e81-273b-4eb1-998e-de9264194765).
+
+  * 17th Annual Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2021), Virtual Conference.
+
+  * 2021 INFORMS Annual Meeting (INFORMS 2021), Newport Beach, CA.
+
+  * This research was also presented by Dr. Bin Gu at Boston University.
 draft: false
 featured: false
 authors: []
