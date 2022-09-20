@@ -22,7 +22,7 @@ feature:
     name: STATA
    - description: 
     icon: python
-    icon_pack: fab
+    icon_pack: fas
     name: Python
   - description: 
     icon: r-project
