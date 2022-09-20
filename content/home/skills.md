@@ -29,10 +29,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -48,4 +45,10 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+
+#  - description: 
+#    icon: chart-line
+#    icon_pack: fas
+#    name: Statistics
 ---
