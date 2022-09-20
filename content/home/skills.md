@@ -16,10 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
-    icon: "stata_icon"
-    icon_pack: "custom"
-    name: STATA
+
   - description: 
     icon: python
     icon_pack: fas
