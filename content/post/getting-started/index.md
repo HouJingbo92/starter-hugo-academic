@@ -39,7 +39,7 @@ image:
 * 29th Workshop on Information Technologies and Systems (WITS 2019), Munich, Germany.
 * 2019 INFORMS Annual Meeting (INFORMS 2019), Seattle, WA.
 
-**2.**     **Jingbo Hou**, Chen Liang, Pei-yu Chen, Bin Gu, “Does Telework Adjustment Reduce Unequal Impacts of the COVID-19 Disaster on Job Losses Across Genders?” **under the 2nd round review, major revision, *Information Systems Research*.**
+**2.**     **Jingbo Hou**, Chen Liang, Pei-yu Chen, Bin Gu, “Does Telework Adjustment Reduce Unequal Impacts of the COVID-19 Disaster on Job Losses Across Genders?” **under the 2nd round review, major revision, *Information Systems Research*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4038594).**
 
 * ISR Disaster Management Special Issue Workshop.
 * [2021 International Conference on Information Systems (ICIS 2021), Austin, TX. **Best Paper Nominee**.](https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/21/)
@@ -50,7 +50,7 @@ image:
 * 2021 INFORMS Annual Meeting (INFORMS 2021), Newport Beach, CA.
 * This research was also presented by Dr. Bin Gu at Boston University.
 
-3.     **Jingbo Hou**, Chen Liang, Pei-yu Chen, “Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19,” **in preparation for the 2nd round review, major revision, *Production and Operations Management*.**
+3.     **Jingbo Hou**, Chen Liang, Pei-yu Chen, “Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19,” **in preparation for the 2nd round review, major revision, *Production and Operations Management*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4085158).**
 
 * [2021 International Conference on Information Systems (ICIS 2021), Austin, TX.](https://aisel.aisnet.org/icis2021/gen_topics/gen_topics/4/)
 * 2022 INFORMS Annual Meeting (INFORMS 2022), Indianapolis, IN.
