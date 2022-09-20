@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 
     icon: code
-    icon_pack: far
+    icon_pack: fas
     name: STATA
    - description: 
     icon: python
