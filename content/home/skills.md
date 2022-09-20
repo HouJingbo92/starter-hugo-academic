@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: code
-    icon_pack: fa
+    icon: "stata_icon"
+    icon_pack: "custom"
     name: STATA
    - description: 
     icon: python
