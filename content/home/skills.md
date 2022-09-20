@@ -18,8 +18,12 @@ subtitle:
 feature:
 
   - description: 
+    icon: stata_icon
+    icon_pack: custom
+    name: Stata
+  - description: 
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 
     icon: r-project
