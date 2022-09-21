@@ -10,7 +10,7 @@ summary: >-
   review), and ***Production and Operations Management*** (under preparation for
   the 2nd round review). I am also making good progress in preparing two papers,
   targeted at  ***Information Systems Research***. These two ongoing projects
-  were also presented in the major IS conferences (SCECR, CIST, etc.). In the
+  were also presented at the major IS conferences (SCECR, CIST, etc.). In the
   next three years, I plan to keep working on these two streams with my
   dependable coauthors. In addition, with a strong interest in digital finance,
   I am ready to start two research projects related to cryptocurrency. A summary
