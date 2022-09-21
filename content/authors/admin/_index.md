@@ -22,6 +22,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E9%9D%99%E6%B3%A2-%E4%BE%AF-755669bb/
+  - display:
+      header: false
+    link: https://www.dropbox.com/s/9lb0x8344isq6w7/CV%20-%20Jingbo%20v3.pdf?dl=0
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: Arizona State University
     url: https://wpcarey.asu.edu/
