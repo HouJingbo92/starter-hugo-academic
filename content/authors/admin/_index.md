@@ -10,6 +10,7 @@ interests:
   - Information and Communication Technology
   - Future of Work
   - Economics of AI/ML
+  - Labor Market
   - Crowdsourcing Contest
 social:
   - icon: envelope
@@ -41,7 +42,7 @@ highlight_name: true
 ---
 [Jingbo Hou](https://search.asu.edu/profile/3282923) is a Ph.D. candidate of [Information Systems](https://wpcarey.asu.edu/information-systems-degrees/doctoral) at the [W.P. Carey School of Business](https://wpcarey.asu.edu/) at [Arizona State University](https://www.asu.edu/). **He is on the job market this year (2022-2023).** **He will attend CIST and INFORMS 2022 (Oct 15 - 18, 2022)  in Indianapolis, IN and participate in the ICIS 2022 Doctoral Consortium (Dec 7 - 10, 2022) in Copenhagen, Denmark.**
 
-Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. Regarding the micro-level impacts of digital technologies, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). Regarding the macro-level impacts of digital technologies, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media. 
+Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. At the micro level, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). At the macro level, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media. 
 
 H﻿e taught two online sessions of [CIS 315 - Intro Business Data Analytics](https://www.dropbox.com/s/05dlf30jn72lpy2/2022%20Summer%20C%20CIS%20315%20SYLLABUS%20%2B%20Schedule-%20Hou.pdf?dl=0). The course evaluation for the first session is 6.1/7.0, and the course evaluation for the second session is 6.2/7.0. He is most interested in teaching courses related to the following topics:
 
