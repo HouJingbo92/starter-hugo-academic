@@ -60,9 +60,6 @@ highlight_name: true
 
 Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. At the micro level, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). At the macro level, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media. 
 
-H﻿e taught two online sessions of [CIS 315 - Intro Business Data Analytics](https://www.dropbox.com/s/05dlf30jn72lpy2/2022%20Summer%20C%20CIS%20315%20SYLLABUS%20%2B%20Schedule-%20Hou.pdf?dl=0). The course evaluation for the first session is 6.1/7.0, and the course evaluation for the second session is 6.2/7.0. He is most interested in teaching courses related to the following topics:
-
-* **Data Analytics Coursesa**: Business Analytics, Machine Learning, Text Mining, Unstructured Data Management, Business Intelligence and Programming, Social Networks, Applied Econometrics, and Applied Regression Analysis
-* **Core IS Courses**: Introductory Information Systems, Information Systems Analysis and Design, IT Project Management, and IT strategy, Database Systems, and Applications
+H﻿e taught two online sessions of [CIS 315 - Intro Business Data Analytics](https://www.dropbox.com/s/05dlf30jn72lpy2/2022%20Summer%20C%20CIS%20315%20SYLLABUS%20%2B%20Schedule-%20Hou.pdf?dl=0). The course evaluation for the first session is 6.1/7.0, and the course evaluation for the second session is 6.2/7.0. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/9lb0x8344isq6w7/CV%20-%20Jingbo%20v3.pdf?dl=0" "newtab" >}}resumé{{< /staticref >}}.
