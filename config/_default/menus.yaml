@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 50
   - name: Teaching
-    url: '#blank'
+    url: '#my-widget-123'
     weight: 55    
   - name: Contact
     url: '#contact'
