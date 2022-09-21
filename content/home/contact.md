@@ -5,9 +5,9 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
-active: false
+active: true
 content:
-  autolink: true
+  autolink: false
   form:
     provider: netlify
     formspree:
