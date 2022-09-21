@@ -15,3 +15,11 @@ H﻿e taught two online sessions of [CIS 315 - Intro Business Data Analytics](ht
 
 * **Data Analytics Coursesa**: Business Analytics, Machine Learning, Text Mining, Unstructured Data Management, Business Intelligence and Programming, Social Networks, Applied Econometrics, and Applied Regression Analysis
 * **Core IS Courses**: Introductory Information Systems, Information Systems Analysis and Design, IT Project Management, and IT strategy, Database Systems, and Applications
+
+**S﻿elected Student Comments**:
+
+* *"Although this is an online course, the instructor did an excellent job of giving feedback to the students. I was able to get a lot of help from the instructor through his corrections and detailed comments on the assignments."*
+* *"Mr. Hou is very available and responsive to questions. He was a great resource for this class which is unusual for an asynchronous online course. I like how he used slack and released grades promptly."*
+* *"Love how fast he grades assignments and that comments are meaningful. I am grateful to have an instructor who cares about his students as well as their input."*
+* *"I really appreciated the individual feedback on all of the homework. Please continue doing that."*
+* *"The instructor was very responsive and always willing to answer questions. The instructor was continually looking for ways to improve the course and I appreciated that."*
