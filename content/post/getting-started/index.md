@@ -8,12 +8,13 @@ summary: >-
   under preparation for the 2nd round review, and another one is under the 1st
   round review), ***Information Systems Research*** (under the 2nd round
   review), and ***Production and Operations Management*** (under preparation for
-  the 2nd round review). I am also making good progress in preparing two papers
-  targeted at ***Information Systems Research***. In the next three years, I
-  plan to keep working on these two streams with my dependable coauthors. In
-  addition, with a strong interest in digital finance, I am ready to start two
-  research projects related to cryptocurrency. A summary of my current ongoing
-  projects is presented below.
+  the 2nd round review). I am also making good progress in preparing two papers,
+  targeted at  ***Information Systems Research***. These two ongoing projects
+  were also presented in the major IS conferences (SCECR, CIST, etc.). In the
+  next three years, I plan to keep working on these two streams with my
+  dependable coauthors. In addition, with a strong interest in digital finance,
+  I am ready to start two research projects related to cryptocurrency. A summary
+  of my current ongoing projects is presented below. 
 
 
   **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059).**
