@@ -4,9 +4,9 @@ subtitle: ""
 date: 2022-09-17T17:41:46.212Z
 summary: >-
   My research projects are at different review stages in top-tier journals.
-  Particularly, I have four papers under review in ***Management Science*** (one
-  is under preparation for the 2nd round review, and another one is under the
-  1st round review), ***Information Systems Research*** (under the 2nd round
+  Particularly, I have paper(s) under review in ***Management Science*** (one is
+  under preparation for the 2nd round review, and another one is under the 1st
+  round review), ***Information Systems Research*** (under the 2nd round
   review), and ***Production and Operations Management*** (under preparation for
   the 2nd round review). I am also making good progress in preparing two papers
   targeted at ***Information Systems Research***. In the next three years, I
