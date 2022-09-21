@@ -27,6 +27,11 @@ social:
     link: https://www.dropbox.com/s/9lb0x8344isq6w7/CV%20-%20Jingbo%20v3.pdf?dl=0
     icon_pack: ai
     icon: cv
+  - display:
+      header: false
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4877048
+    icon_pack: ai
+    icon: ssrn
 organizations:
   - name: Arizona State University
     url: https://wpcarey.asu.edu/
