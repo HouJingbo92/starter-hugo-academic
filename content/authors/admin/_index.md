@@ -32,6 +32,12 @@ social:
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4877048
     icon_pack: ai
     icon: ssrn
+  - display:
+      header: false
+    icon_pack: fas
+    icon: building-columns
+    label: ""
+    link: https://search.asu.edu/profile/3282923
 organizations:
   - name: Arizona State University
     url: https://wpcarey.asu.edu/
