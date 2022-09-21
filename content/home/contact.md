@@ -8,12 +8,6 @@ subtitle: null
 active: true
 content:
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
   email: jhou27@asu.edu
   phone: +1 (480) 546-2167
   address:
