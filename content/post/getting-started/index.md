@@ -74,3 +74,5 @@ image:
 6.     Jingyi Jiang, Jingbo Hou, “The Role of Editorial Recommendation on Mitigating Cold-Start Issue,” **Targeting Journal: *Information Systems Research***.
 
 * 18th Annual Symposium on Statistical Challenges in Electronic Commerce Research (SCECR 2022), Madrid, Spain.
+
+The [abstract](https://www.dropbox.com/s/do2dx1ae117izv0/Research%20Statement%20-%20Jingbo%20v5%20-%20reformat.pdf?dl=0) of these studies are also available.
