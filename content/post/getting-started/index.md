@@ -17,6 +17,9 @@ summary: >-
   of my current ongoing projects is presented below. 
 
 
+  The [abstract](https://www.dropbox.com/s/do2dx1ae117izv0/Research%20Statement%20-%20Jingbo%20v5%20-%20reformat.pdf?dl=0) of these studies is available. 
+
+
   **1.**     **Jingbo Hou**, Ni Huang, Gordon Burtch, Yili Hong, Pei-yu Chen, “Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets,” **in preparation for the 2nd round review, major revision, *Management Science*. Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059).**
 
 
