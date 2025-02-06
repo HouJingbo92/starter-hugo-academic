@@ -1,9 +1,8 @@
 ---
 title: Jingbo Hou
-role: "Ph.D. Candidate in Information Systems "
+role: "Assistant Professor at Santa Clara University"
 avatar_filename: avatar.jpg
-bio: "On the job market this year (2022 - 2023)  Expected Graduation Date: June
-  2023"
+bio: "Enjoying my life now!"
 interests:
   - Social Impact of IS
 social:
