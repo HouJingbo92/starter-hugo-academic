@@ -39,62 +39,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Dr. Pei-yu Chen (Committee Chair)**
+**[Dr. Pei-yu Chen](<https://search.asu.edu/profile/2217544>)** 
 
-Earl and Gladys Davis Distinguished Research Professor in Business of Information Systems
+[**Dr. Bin Gu** ](<https://www.bu.edu/questrom/profile/bin-gu/>)
 
-Chair, Department of Information Systems
+[**Dr. Yili (Kevin) Hong** ](<http://kevinhong.me/>)
 
-W. P. Carey School of Business
 
-Arizona State University
 
-Senior Editor, *Information Systems Research*
-
-Phone: +1 (480)-965-8676
-
-Email: [peiyu.chen@asu.edu](mailto:peiyu.chen@asu.edu) 
-
-Website: <https://search.asu.edu/profile/2217544> 
-
- 
-
- 
-
-**Dr. Bin Gu** 
-
-Everett W. Lord Distinguished Scholar of Information Systems
-
-Chair, Department of Information Systems
-
-Questrom School of Business
-
-Boston University
-
-Senior Editor, *MIS Quarterly*
-
-Phone: +1 (617)-353-5409
-
-Email: [bgu@bu.edu](mailto:bgu@bu.edu) 
-
-Website: <https://www.bu.edu/questrom/profile/bin-gu/> 
-
- 
-
- 
-
-**Dr. Yili (Kevin) Hong** 
-
-Professor of Business Technology 
-
-Miami Herbert Business School
-
-University of Miami
-
-Senior Editor, *Production and Operations Management*
-
-Phone:+1 (305) 284-9346
-
-Email: [khong@miami.edu](mailto:khong@miami.edu) 
-
-Website: <http://kevinhong.me/>
+[](http://kevinhong.me/)
