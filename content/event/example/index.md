@@ -47,5 +47,6 @@ projects: []
 image:
   caption: ""
   focal_point: Right
+  filename: face-checking.webp
 url_code: ""
 ---
