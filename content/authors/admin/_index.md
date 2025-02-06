@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:jhou27@asu.edu
+    link: mailto:jhou3@scu.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vVbJuCEAAAAJ&hl=en
@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/%E9%9D%99%E6%B3%A2-%E4%BE%AF-755669bb/
   - display:
       header: false
-    link: https://www.dropbox.com/s/9lb0x8344isq6w7/CV%20-%20Jingbo%20v3.pdf?dl=0
+    link: https://www.dropbox.com/scl/fi/8d5tydzwsdeyungv392zp/Hou_Jingbo_Dropbox.pdf?rlkey=f9zgvuw6kdk6mfo5dkeljda5q&st=niwghkl6&dl=0
     icon_pack: ai
     icon: cv
   - display:
@@ -37,10 +37,10 @@ social:
     icon_pack: fas
     icon: building-columns
     label: ""
-    link: https://search.asu.edu/profile/3282923
+    link: https://www.scu.edu/business/isa/faculty/hou/
 organizations:
-  - name: Arizona State University
-    url: https://wpcarey.asu.edu/
+  - name: Stanta Clara University
+    url: https://www.scu.edu/business/
 education:
   courses:
     - course: Ph.D. in Business Administration (Information Systems)
@@ -52,14 +52,8 @@ education:
     - course: B.Mgmt. in Information Management and Information System (with Honor)
       institution: Sun Yat-sen University
       year: 2015
-email: jhou27@asu.edu
+email: jhou3@scu.edu
 superuser: true
 highlight_name: true
 ---
-[Jingbo Hou](https://search.asu.edu/profile/3282923) is a Ph.D. candidate of [Information Systems](https://wpcarey.asu.edu/information-systems-degrees/doctoral) at the [W.P. Carey School of Business](https://wpcarey.asu.edu/) at [Arizona State University](https://www.asu.edu/). **He is on the job market this year (2022-2023).** **He will attend CIST and INFORMS 2022 (Oct 15 - 18, 2022)  in Indianapolis, IN and the ICIS 2022 Doctoral Consortium (Dec 7 - 10, 2022) in Copenhagen, Denmark.**
-
-Jingbo Hou is interested in advancing the understanding of the business implications of emerging digital technologies at both micro and macro levels. At the micro level, he is interested in examining the role of online market designs (e.g., application costs, machine-generated content, non-personalized recommendations, and solution visibility) in alleviating the information asymmetries and improving the matching efficiencies for different types of online two-sided platforms (e.g., online labor market, online data sharing platform, and online crowdsourcing competition community). At the macro level, he is interested in exploring the positive societal effects of Information and Communications Technology (ICT), e.g., telework adjustment and social media. 
-
-H﻿e taught two online sessions of [CIS 315 - Intro Business Data Analytics](https://www.dropbox.com/s/05dlf30jn72lpy2/2022%20Summer%20C%20CIS%20315%20SYLLABUS%20%2B%20Schedule-%20Hou.pdf?dl=0). The course evaluation for the first session is 6.1/7.0, and the course evaluation for the second session is 6.2/7.0. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/9lb0x8344isq6w7/CV%20-%20Jingbo%20v3.pdf?dl=0" "newtab" >}}resumé{{< /staticref >}}.
+Jingbo Hou is an [Assistant Professor](https://www.scu.edu/business/isa/faculty/hou/) in the Department of Information Systems & Analytics at Santa Clara University’s Leavey School of Business. His research focuses on enhancing the comprehension of the business and societal implications associated with emerging digital technologies, spanning both micro and macro levels. At the micro level, his investigation aims to mitigate information asymmetries and enhance matching efficiencies within diverse online two-sided platforms, including online labor markets, data-sharing platforms, and crowdsourcing communities. On the macro level, his interests extend to investigating the favorable societal impacts stemming from Information Technology, encompassing areas like GenAI adoption, telework adaptation, and social media usage. His work has been accepted for publication in Information Systems Research and Production and Operations Management.
