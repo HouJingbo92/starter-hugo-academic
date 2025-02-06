@@ -24,6 +24,6 @@ draft: false
 featured: false
 image:
   filename: dall·e-2024-12-29-15.00.11-a-visually-striking-digital-composition-representing-the-omis-34-class-themes-of-science-information-technology-business-and-society.-central-to-th.webp
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
