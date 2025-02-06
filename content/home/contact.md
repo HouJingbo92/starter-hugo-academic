@@ -8,7 +8,7 @@ subtitle: null
 active: true
 content:
   autolink: true
-  email: jhou27@asu.edu
+  email: jhou3@scu.edu
   phone: +1 (480) 546-2167
   address:
     street: 738 Franklin St 
