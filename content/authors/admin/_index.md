@@ -1,6 +1,6 @@
 ---
 title: Jingbo Hou
-role: "Assistant Professor at Santa Clara University"
+role: "Assistant Professor in ISA"
 avatar_filename: avatar.jpg
 bio: "Enjoying my life now!"
 interests:
