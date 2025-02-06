@@ -1,7 +1,6 @@
 ---
-title: "How Algorithmically Generated Content Reduces Evaluation Costs for
-  Experience Goods: An Empirical Study of Dataset Adoption on the Kaggle
-  Platform"
+title: How Algorithmically Generated Content Reduces Evaluation Costs for
+  Experience Goods
 abstract: "Algorithmically generated content (AGC) is increasingly used by
   digital platforms to enhance user decision-making by reducing evaluation
   costs. This study examines the impact of AGC on the adoption of online
@@ -14,7 +13,7 @@ abstract: "Algorithmically generated content (AGC) is increasingly used by
   evaluation mechanisms, such as detailed product descriptions or provider
   reputation. However, AGC’s impact diminishes over time as UGC accumulates and
   evaluation costs decline. "
-location: Under Review
+location: Joint Work with Amin Sabzehzar, Yili Hong, and Pei-Yu Chen
 date: 2025-02-06T02:23:55.085Z
 date_end: 2025-02-06T02:23:56.221Z
 all_day: false
