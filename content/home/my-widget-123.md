@@ -14,6 +14,7 @@ design:
 **Instructor**, Science, Information Technology, Business and Society ([OMIS 34](https://www.dropbox.com/scl/fi/3bnmqt0iti8ctydqcqi4y/OMIS34_Syllabus_Jingbo_Winter-2025.pdf?rlkey=s5majfvpc258hkwdiz9vf2qsv&st=3nh2qozg&dl=0)), SCU, Winter & Spring 2024, Winter 2025
 
 * I enjoy combining multiple modes in my teaching, e.g., in-class exercise, in-class discussion, case study, simulation games, peer evaluation, guided analytics, and so on.
+* I﻿ embrace all new topics centering the recent IS developments in the class, e.g., GenAI, quantum computing, and blockchain techniques. 
 * [Reviews](https://www.ratemyprofessors.com/professor/2980261) from my prior students
 
 **Instructor**, Database Management Systems (OMIS 105), SCU, Fall 2023
