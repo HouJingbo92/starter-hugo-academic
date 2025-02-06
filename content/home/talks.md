@@ -21,3 +21,4 @@ content:
 design:
   view: 2
 ---
+F﻿or most of the working papers, the [conference versions](https://www.dropbox.com/scl/fi/2wj25vczqjgagxda0xgls/CV-Jingbo-v3.pdf?rlkey=f46o42h2exwql0yzcl8obvuf5&e=2&dl=0) are publicly available.
