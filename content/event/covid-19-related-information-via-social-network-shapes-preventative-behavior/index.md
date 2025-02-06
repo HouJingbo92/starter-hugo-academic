@@ -31,6 +31,6 @@ draft: false
 featured: false
 image:
   filename: p2p.webp
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
