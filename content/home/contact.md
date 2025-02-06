@@ -11,16 +11,16 @@ content:
   email: jhou27@asu.edu
   phone: +1 (480) 546-2167
   address:
-    street: Business Administration C-wing, 300 E Lemon St
-    city: Tempe
-    region: AZ
-    postcode: "85281"
+    street: 738 Franklin St 
+    city: Santa Clara
+    region: CA
+    postcode: "95050"
     country: United States
     country_code: US
   coordinates:
-    latitude: "33.4255"
-    longitude: "111.9400"
-  directions: Office 609 on Floor 6
+    latitude: "37.3511"
+    longitude: "121.9396"
+  directions: Office 221 TT
 design:
   columns: "2"
 ---
