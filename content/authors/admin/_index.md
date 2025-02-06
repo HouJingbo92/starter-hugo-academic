@@ -1,8 +1,8 @@
 ---
 title: Jingbo Hou
-role: "Assistant Professor in ISA"
+role: Assistant Professor in ISA
 avatar_filename: avatar.jpg
-bio: "Enjoying my life now!"
+bio: Enjoying my life now!
 interests:
   - Social Impact of IS
 social:
@@ -49,4 +49,4 @@ email: jhou3@scu.edu
 superuser: true
 highlight_name: true
 ---
-Jingbo Hou is an [Assistant Professor](https://www.scu.edu/business/isa/faculty/hou/) in the Department of Information Systems & Analytics at Santa Clara University’s Leavey School of Business. His research focuses on enhancing the comprehension of the business and societal implications associated with emerging digital technologies, spanning both micro and macro levels. At the micro level, his investigation aims to mitigate information asymmetries and enhance matching efficiencies within diverse online two-sided platforms, including online labor markets, data-sharing platforms, and crowdsourcing communities. On the macro level, his interests extend to investigating the favorable societal impacts stemming from Information Technology, encompassing areas like GenAI adoption, telework adaptation, and social media usage. His work has been accepted for publication in Information Systems Research and Production and Operations Management.
+Jingbo Hou is an [Assistant Professor](https://www.scu.edu/business/isa/faculty/hou/) in the Department of Information Systems & Analytics at Santa Clara University’s Leavey School of Business. His research focuses on enhancing the comprehension of the business and societal implications associated with emerging digital technologies, spanning both micro and macro levels. At the micro level, his investigation aims to mitigate information asymmetries and enhance matching efficiencies within diverse online two-sided platforms, including online crowdfunding markets, data-sharing platforms, and crowdsourcing contest communities. On the macro level, his interests extend to investigating the favorable societal impacts stemming from Information Technology, encompassing areas like GenAI adoption, telework adaptation, and social media usage. His work has been accepted for publication in Information Systems Research and Production and Operations Management.
