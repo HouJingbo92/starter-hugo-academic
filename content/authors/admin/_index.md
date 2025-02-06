@@ -5,13 +5,7 @@ avatar_filename: avatar.jpg
 bio: "On the job market this year (2022 - 2023)  Expected Graduation Date: June
   2023"
 interests:
-  - Digital Platforms
-  - Digital Media
-  - Information and Communication Technology
-  - Future of Work
-  - Economics of AI/ML
-  - Labor Market
-  - Crowdsourcing Contest
+  - Social Impact of IS
 social:
   - icon: envelope
     icon_pack: fas
