@@ -46,7 +46,7 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: Right
+  focal_point: Smart
   filename: face-checking.webp
 url_code: ""
 ---
