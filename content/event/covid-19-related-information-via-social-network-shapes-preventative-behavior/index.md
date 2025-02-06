@@ -30,7 +30,7 @@ publishDate: 2025-02-06T02:30:05.313Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: p2p.webp
   focal_point: Smart
   preview_only: false
 ---
