@@ -25,7 +25,7 @@ location: Joint Work with Yingxin Zhou, Yi Gao, and Pei-Yu Chen
 date: 2025-02-06T03:39:20.205Z
 date_end: 2025-02-06T02:23:56.221Z
 all_day: false
-event: Under Review
+event: Ready for Submission
 event_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296173
 publishDate: 2025-02-06T03:39:20.212Z
 draft: false
