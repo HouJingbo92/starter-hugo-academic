@@ -27,7 +27,7 @@ experience:
         * Write business reports
 widget_id: RECENT-POSTS
 headless: true
-weight: 40
+weight: 140
 title: Industrial Experience
 subtitle: null
 design:
