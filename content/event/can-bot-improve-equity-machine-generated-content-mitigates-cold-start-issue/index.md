@@ -1,27 +1,26 @@
 ---
-title: Can Bot Improve Equity? Machine-generated Content Mitigates Cold-Start Issue
-abstract: The cold-start problem is salient in the current online two-sided
-  markets. Theoretically, machine-generated content can serve as the information
-  signal, thus helps to address the cold-start issue. To empirically examine
-  whether machine-generated content helps mitigate the cold-start problem, we
-  study the impact of machine-generated content on dataset adoption in a leading
-  online public dataset community (Kaggle). We found that machine-generated
-  content helps to solve the cold-start problem in the online public dataset
-  community in two ways. First, we show that machine-generated content shortens
-  the time needed for datasets to get their first adoption and that
-  machine-generated content increases the dataset adoption in the initial stage
-  and increases the dataset diffusion rate. Second, our results show that the
-  positive effect of machine-generated content is stronger for dataset sharers
-  who lack reputation signals. Our research opens a discussion on the role of
-  machine-generated content in mitigating the cold-start problem in online
-  public dataset platforms and also other two-sided markets.
-location: Austin, TX
-date: 2021-12-12T19:00:00.000Z
-date_end: 2021-12-15T07:00:00.000Z
+title: "How Algorithmically Generated Content Reduces Evaluation Costs for
+  Experience Goods: An Empirical Study of Dataset Adoption on the Kaggle
+  Platform"
+abstract: "Algorithmically generated content (AGC) is increasingly used by
+  digital platforms to enhance user decision-making by reducing evaluation
+  costs. This study examines the impact of AGC on the adoption of online
+  experience goods, using Kaggle’s algorithm-generated exploratory data analysis
+  (EDA) reports as a case study. We analyze how AGC facilitates dataset adoption
+  by reducing the time and cognitive effort required to evaluate datasets,
+  particularly in the early-stage cold start phase when user-generated content
+  (UGC) is scarce. Our findings reveal that AGC significantly increases early
+  adoption, with a more pronounced effect on datasets that lack alternative
+  evaluation mechanisms, such as detailed product descriptions or provider
+  reputation. However, AGC’s impact diminishes over time as UGC accumulates and
+  evaluation costs decline. "
+location: Under Review
+date: 2025-02-06T02:23:55.085Z
+date_end: 2025-02-06T02:23:56.221Z
 all_day: false
-event: 2021 International Conference on Information Systems (ICIS 2021)
-event_url: https://aisel.aisnet.org/icis2021/user_behaivors/user_behaivors/24/
-publishDate: 2022-09-18T03:14:28.795Z
+event: Under Review
+event_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296173
+publishDate: 2025-02-06T02:24:13.920Z
 draft: false
 featured: false
 image:
