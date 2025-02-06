@@ -1,29 +1,35 @@
 ---
-abstract: With the massive COVID-19 lockdown, teleworkability, i.e., the
-  feasibility of telework, plays an important role in determining whether
-  workers can maintain productivity and keep their jobs. However, the impact of
-  teleworkability is likely to be heterogeneous, varying by worker
-  characteristics, such as gender and childcare constraints. This study examines
-  the heterogeneous impact of teleworkability on labor market outcomes
-  (including unemployment, work absence, and layoff). Using stay-at-home order
-  as a measure of labor market disruption, we find that teleworkability offsets
-  the increase in unemployment due to the disruption of COVID-19 by 20%, that in
-  work absence by 28%, and that in layoff by 26%. Specifically, the positive
-  effect of teleworkability is i) stronger for females than males; ii) stronger
-  for females with kids than their male counterparts as well as those without
-  kids. Our study contributes to the emerging literature on gender inequality by
-  underscoring the nuanced impact of teleworkability.
+abstract: The spread of misinformation online remains a significant concern,
+  prompting various online platforms to adopt the crowdsourced fact-checking
+  approach as a countermeasure. While prior research has focused on its
+  short-term impact on user responses to flagged (or labeled) misinformation
+  content, a more comprehensive assessment of its efficacy necessitates an
+  examination of its long-term impact in a broader content scope. Using
+  Twitter’s Community Notes program (formerly known as Birdwatch)—a crowdsourced
+  fact-checking intervention—as the research context, we investigate the
+  crowdsourced fact-checking’s long-term impact on shaping user response to
+  labeled authors’ subsequent content. Specifically, we examine how crowdsourced
+  fact-checking influences the audiences’ subsequent engagement with labeled
+  authors and how it affects labeled authors’ subsequent content generation
+  behavior over the long term. By employing the staggered timing of labels as
+  our identification strategy, we find that community notes decrease audience
+  engagement with labeled authors. Moreover, while it prompts labeled authors to
+  reduce their post quantity, it does not significantly impact their post
+  quality. This study contributes to the literature on crowdsourced
+  fact-checking by extending the evaluation of its efficacy to a longer time
+  horizon and broader content scope and bridging the responses of both
+  misinformation consumers (audience) and producers (labeled authors).
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: Gender Heterogeneity in the Effect of Teleworkability on Labor Market
-  Outcomes During the COVID-19 Pandemic
-location: Austin, TX
-date: 2021-12-12T19:00:00.000Z
-date_end: 2021-12-15T07:00:00.000Z
+title: "How Does Crowdsourced Fact-Checking Affect Audience and Author
+  Responses? Evidence from Twitter’s Community Notes "
+location: Joint Work with Yingxin Zhou, Yi Gao, and Pei-Yu Chen
+date: 2025-02-06T02:31:16.014Z
+date_end: 2025-02-06T02:31:44.055Z
 all_day: false
-event: 2021 International Conference on Information Systems (ICIS 2021)
-event_url: https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/21/
+event: Ready for Submission
+event_url: Nan
 featured: false
 authors: []
 url_video: ""
@@ -35,7 +41,7 @@ address:
   postcode: "94305"
   country: United States
 links: []
-publishDate: 2022-09-18T02:57:02.339Z
+publishDate: 2025-02-06T02:32:09.348Z
 tags: []
 projects: []
 image:
