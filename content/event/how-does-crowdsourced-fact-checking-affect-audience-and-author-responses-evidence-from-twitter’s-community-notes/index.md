@@ -32,6 +32,6 @@ draft: false
 featured: false
 image:
   filename: face-checking.webp
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
