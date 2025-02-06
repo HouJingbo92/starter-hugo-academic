@@ -1,25 +1,32 @@
 ---
-title: COVID-19 Related Information via Social Network Shapes Preventative Behavior
-abstract: People living in counties with higher social proximity to COVID-19
-  severity information were more likely to take preventative measures (e.g.,
-  social distancing and mask-wearing). Meanwhile, counties with higher social
-  proximity to COVID-19 severity information experienced a slower spread of
-  COVID-19. These relationships hold after we control for local cases,
-  county-level time-invariant characteristics, state-level policies, and various
-  types of physical ties to hard-hit areas. Overall, this research documents
-  significant evidence showing the value of social networks in enhancing social
-  awareness and shows how preventative measures induced by social awareness help
-  mitigate the spread of the virus, while controlling away other alternative
-  factors, such as local infections which increase local awareness, physical
-  connectedness, which increases the likelihood of travel, and state policy
-  responses to COVID.
-location: Austin, TX
-date: 2021-12-12T19:00:00.000Z
-date_end: 2021-12-15T07:00:00.000Z
+title: "Digital Paths to Prosocial Lending: The Impact of Social Connectedness
+  and Digital Inclusion"
+abstract: This study investigates the role of cross-country social connectedness
+  via social media in influencing peer-to-peer (P2P) prosocial lending. While
+  existing literature highlights social distances (e.g., cultural and religious
+  differences) as one of the factors that reduce uncertainty for lenders, we
+  complement this by examining the overlooked role of information exchange on
+  social media. Building on the uncertainty reduction theory (URT), we argue
+  that social connectedness through platforms such as Facebook enhances
+  information flows, thereby increasing cross-country lending activities. Using
+  panel data from Kiva and the Facebook Social Connectedness Index (SCI), our
+  findings demonstrate that higher social connectedness is positively associated
+  with increased lending volumes. These results are robust across different
+  measures of SCI, various P2P platforms, and several econometric models.
+  Furthermore, we show that digital inclusion—measured by i) access to Internet
+  infrastructure, ii) autonomy in Internet use, and iii) the ability to use the
+  Internet—moderates this relationship, reducing lenders’ reliance on social
+  connectedness and encouraging more balanced lending behavior. These findings
+  deepen our theoretical understanding of how online users utilize different
+  information-seeking avenues to reduce uncertainty and provide implications for
+  policy and practice.
+location: Joint Work with Amin Sabzehzar, Yingxin Zhou, Likoebe Maruping
+date: 2025-02-06T02:29:40.511Z
+date_end: 2025-02-06T02:29:41.710Z
 all_day: false
-event: 2021 International Conference on Information Systems (ICIS 2021)
-event_url: https://aisel.aisnet.org/icis2021/gen_topics/gen_topics/4/
-publishDate: 2022-09-18T03:09:34.581Z
+event: Under Review
+event_url: NA
+publishDate: 2025-02-06T02:30:05.313Z
 draft: false
 featured: false
 image:
