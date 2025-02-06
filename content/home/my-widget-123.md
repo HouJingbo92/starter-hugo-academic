@@ -19,4 +19,4 @@ design:
 
 **Instructor**, Database Management Systems (OMIS 105), SCU, Fall 2023
 
-**Instructor**, Intro Business Data Analytics (CIS 315),ASU, Summer 2022
+**Instructor**, Introduction to Business Data Analytics (CIS 315), ASU, Summer 2022
